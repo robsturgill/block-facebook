@@ -1,2 +1,2 @@
 # block-facebook
-Block Facebook on a local machine via host file
+A simple script to block Facebook on a local machine running Windows via host file.
